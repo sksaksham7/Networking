@@ -1,0 +1,11 @@
+c:\users\sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\bin\Debug\Lechat Server File.exe.config
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\bin\Debug\Lechat Server File.exe
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\bin\Debug\Lechat Server File.pdb
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\obj\Debug\Lechat Server File.csprojResolveAssemblyReference.cache
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\obj\Debug\Lechat_Server_File.Form1.resources
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\obj\Debug\Lechat_Server_File.Properties.Resources.resources
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\obj\Debug\Lechat Server File.csproj.GenerateResource.Cache
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\obj\Debug\Lechat Server File.exe
+C:\Users\Sid\documents\visual studio 2015\Projects\Lechat Server File\Lechat Server File\obj\Debug\Lechat Server File.pdb

@@ -1,0 +1,14 @@
+c:\users\sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\bin\Debug\Le Chat Client.exe.config
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\bin\Debug\Le Chat Client.exe
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\bin\Debug\Le Chat Client.pdb
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\obj\Debug\Le_Chat_Client.Properties.Resources.resources
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\obj\Debug\Le Chat Client.csproj.GenerateResource.Cache
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\obj\Debug\Le Chat Client.exe
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\obj\Debug\Le Chat Client.pdb
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\obj\Debug\Le_Chat_Client.Form1.resources
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Le Chat Client\Le Chat Client\obj\Debug\Le Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\obj\Debug\Le_Chat_Client.graph.resources
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\obj\Debug\Le_Chat_Client.compare_compressed.resources
+C:\Users\Sid\documents\visual studio 2015\Projects\Le Chat Client\Le Chat Client\obj\Debug\Le_Chat_Client.log.resources
